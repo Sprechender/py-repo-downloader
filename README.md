@@ -29,7 +29,7 @@ Before using this script, ensure you have the following installed:
     ```
 
 4. Upon execution, the script will prompt for the following information:
-    - GitHub Username: Input the GitHub username of the repo-owner (e.g., `https://github.com/Spreechender`)
+    - GitHub Username: Input the GitHub username of the repo-owner (e.g., `https://github.com/Sprechender`)
     - GitHub Repo-name: Input the repository name associated with your GitHub account (e.g., `https://github.com/Sprechender/py-repo-downloader`)
 
 5. The script will fetch the releases for the provided repository and display them in a list.
