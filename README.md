@@ -1,4 +1,4 @@
-# GitHub Release Assets Downloader (repo-downloader.py)
+# GitHub Release Downloader (repo-downloader.py)
 
 Python script that downloads the releases for a specific repository.
 
@@ -39,6 +39,5 @@ Before using this script, ensure you have the following installed:
 
 ## Notes
 
-- Ensure that you everyvidy has the necessary permissions to access the repository's releases and their assets.
 - This script relies on the GitHub API. If there are any issues with fetching releases, verify the repository information and your internet connection.
-- For any questions, feedback, or issues, feel free to open an issue..
+- For any questions, feedback, or issues, feel free to open an issue.
